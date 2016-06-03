@@ -25,3 +25,5 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 ```
 
 esto es una prueba
+
+npm install --save lodash
